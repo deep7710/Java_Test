@@ -6,7 +6,7 @@ node {
    }
    
    stage('Build') {
-    echo "Build success."
+    echo "Build Failed."
 }
 
 }
